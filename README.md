@@ -4,7 +4,7 @@ The frontend folder contains the url to view the statistics
 The backend folder is where the API is stored
 
 ## Source URLs
-To view the frontend: http://hyperqube-challenge.s3-website-us-east-1.amazonaws.com
+To view the frontend: http://hyperqube-technologies-challenge.s3-website-us-east-1.amazonaws.com
 
 To Test the Backend: https://desolate-shore-02221.herokuapp.com/stats
 
