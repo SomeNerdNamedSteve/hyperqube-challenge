@@ -28,8 +28,12 @@ const getUsage = () => {
         }
 
         url = url.concat(`?items=${params.join()}`)
+    } 
+    else{
+        $("#cpu-card").show()
+        $("#ram-card").show()
+        $("#disk-card").show()
     }
-    console.log(url)
 
     Http.open("GET", url)
     Http.send()
